@@ -117,7 +117,7 @@ $itemNo = 0;
 
             <p class="block text-xs">
                 <i class="bi bi-geo-alt-fill inline-block mr-1"></i>
-                <span class="ml-0.5">Corporate 145 Bldg. Mother Ignacia St. South Triangle, Quezon City</span>
+                <span class="ml-0.5">RIZAL</span>
             </p>
 
             <div class="flex space-x-4">

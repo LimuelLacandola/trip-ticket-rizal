@@ -46,6 +46,16 @@ $currentDate = date('l, F j, Y');
             border-bottom: 1px solid black;
             margin-left: 4px;
         }
+
+        footer {
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                text-align: center;
+                padding: 10px;
+            }
+
     </style>
 </head>
 
@@ -72,7 +82,7 @@ $currentDate = date('l, F j, Y');
 
                 <p class="block text-xs">
                     <i class="bi bi-geo-alt-fill inline-block mr-1"></i>
-                    <span class="ml-0.5">Corporate 145 Bldg. Mother Ignacia St. South Triangle, Quezon City</span>
+                    <span class="ml-0.5">RIZAL</span>
                 </p>
 
                 <div class="flex space-x-4">
@@ -353,7 +363,7 @@ $currentDate = date('l, F j, Y');
 
         <footer>
             <div>
-                <img src="images/socotec.png" class=" w-20">
+                <img src="images/socotec.png" class=" w-16">
 
             </div>
         </footer>
